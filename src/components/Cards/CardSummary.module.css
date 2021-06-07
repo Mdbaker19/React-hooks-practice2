@@ -1,0 +1,11 @@
+.descriptionPage{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background: beige;
+    width: 80vh;
+    margin: auto;
+    border-radius: 5px;
+    padding: .75rem;
+    font-weight: 900;
+}
